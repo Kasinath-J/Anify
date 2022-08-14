@@ -3,7 +3,7 @@ Anify is a program to 2d animate a teacher into an animated character in an onli
 This could also be used in any online meet to bring fun into their environment
 
 ## Demo
-
+<img src="https://github.com/Kasinath-J/Anify/blob/main/anify/gif/anify_gif.gif" />
 
 ## Features
 - Currently developed program to animate the person into Shinchan
@@ -23,8 +23,13 @@ This could also be used in any online meet to bring fun into their environment
         # Thread(target = mimic).start()
     It is recommended to use the mimic function in noise less environment for better experience.
 
+## Inspired by
+- https://github.com/yemount/pose-animator
 
-## Libraries
+### Acknowledgement
+- [Pitch shift](https://www.thepythoncode.com/article/play-and-record-audio-sound-in-python)
+
+## Python Libraries
 
 Anify uses a different open source and in built libraries :
 
@@ -44,7 +49,7 @@ Clone the project and install necessary packages with the below code (Windows)
   
  And then run main.py file.
 
-## Contribution
+## Contributed By
 
 * [Kasinath J](https://www.linkedin.com/in/kasinath-j-2881a6200/)
 * [Sorna Sarathi N](https://www.linkedin.com/in/sorna-sarathi-9b2a54240/)
