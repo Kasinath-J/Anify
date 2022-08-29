@@ -52,7 +52,7 @@ Clone the project and install necessary packages with the below code (Windows)
 ## Contributed By
 
 * [Kasinath J](https://www.linkedin.com/in/kasinath-j-2881a6200/)
-* [Sorna Sarathi N](https://www.linkedin.com/in/sorna-sarathi-9b2a54240/)
+* [Sorna Sarathi N](https://www.linkedin.com/in/sorna-sarathi-n-25b167218/)
 * [Rohith N M](https://www.linkedin.com/in/rohith-n-m-087a09229/)
 
 
