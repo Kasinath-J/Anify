@@ -26,7 +26,7 @@ def animate():
         for child in parent.childNodes:
             set_id_attribute(child, attribute_name)
 
-    org_image=os.path.join(folder_directory,'original.svg')
+    org_image=os.path.join(folder_directory,'static/original.svg')
     final_image=os.path.join(folder_directory,'final.svg')
     document = parse(org_image)
     set_id_attribute(document)
