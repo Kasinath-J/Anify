@@ -46,8 +46,11 @@ Clone the project and install necessary packages with the below code (Windows)
 ```bash
   pip install -r requirements.txt
 ```
-  
- And then run main.py file.
+
+Run main.py file
+```bash
+  python main.py 
+```
 
 ## Contributed By
 
